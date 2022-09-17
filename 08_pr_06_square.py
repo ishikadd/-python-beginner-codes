@@ -1,0 +1,5 @@
+a = input("Enter the no.:")
+a = int(a)
+square = (a * a)
+print("the square of a is:", square)
+print(type(square))
